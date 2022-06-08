@@ -6,10 +6,10 @@
  */
 int main(void)
 {
-	char main[] = "main";
+	char main[] = "Main";
 	int i = 0;
 
-	while (holberton[i] != '\0')
+	while (main[i] != '\0')
 	{
 		_putchar(main[i]);
 		i++;
